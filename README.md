@@ -10,6 +10,7 @@ https://bit.ly/number-cs-seminar-shj<br>
 *****
 #### 3. 참고
 1. https://wocl123.tistory.com/entry/4-%EB%8F%99%EC%A0%81%EA%B3%84%ED%9A%8D%EB%B2%95-Dynamic-Programming
+2. https://wikidocs.net/222560
 
 *****
 #### 4. Algorithm <br>
